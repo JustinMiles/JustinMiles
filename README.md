@@ -1,7 +1,8 @@
-### Hi there 👋
+### Hello! 👋
+I am a passionate Network, Security, and Information Professional
 
-- 🔭 I’m currently working with OpenCTI Threat Intelligence 
-- 🌱 I’m currently learning Python and API's
+- 🔭 Currently working with OpenCTI Threat Intelligence 
+- 🌱 Currently learning Python and API's
 <!--
 **JustinMiles/JustinMiles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
