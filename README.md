@@ -1,5 +1,5 @@
 ### Hello! 👋
-I am a passionate Network, Security, and Information Professional
+I am a passionate Network, Security, and Information Professional. I post/share my ongoing projets here.
 
 - 🔭 Currently working with OpenCTI Threat Intelligence 
 - 🌱 Currently learning Python and API's
